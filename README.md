@@ -27,7 +27,7 @@ Used Pandas to change the "tripduration" column from an integer to a datetime da
 
 Final result looks as below : 
 
-![image](https://user-images.githubusercontent.com/40743420/216484294-578749e0-e986-41c6-964b-e428406a6aab.png)
+![image](https://user-images.githubusercontent.com/40743420/216501889-bbc9590b-3ff2-46b5-b369-52a987b5d6f8.png)
 
 
 Deliverable 2: Create Visualizations for the Trip Analysis
@@ -39,6 +39,7 @@ A breakdown of what days of the week a user might be more likely to check out a 
 
 In this visualization, I graphed the length of time that bikes are checked out for all riders.
 Final result looks as below : 
+![image](https://user-images.githubusercontent.com/40743420/216501670-8a01200a-9c1c-41ed-926f-b20278496570.png)
 
 
 Deliverable 3: Create a Story and Report for the Final Presentation
