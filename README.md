@@ -62,6 +62,8 @@ Toggle between the days of the week to see how the peak hours differ, and hold y
 
 Here you can toggle between days of the week or differen gender types (male, female, and unknown) to compare bike usage. For both male and female riders, the weekdays during rush hour are the most popular times to ride, while for gender of unknown, the weekend rides are more popular. This begs the question, is there a difference in entering user data between weekdays and weekends? Is there a difference in the user types and likeliness to leave the gender as "unknown"?
 
+![image](https://user-images.githubusercontent.com/40743420/216668145-50be1798-d2bf-4cd1-8f12-4659ac41c1df.png)
 
+The data broken down by Weekday, User Type, and Gender shows that male subscribers are riding the most frequently. Click to filter the Weekday, User type, and Gender to drill down into the results. Looking at all the data toether, we see that Male subscribers are taking the majority of the rides, so if you want to see increased success, it would be beneifital to focus your marketing on female customers.
 
 Deliverable 3: Create a Story and Report for the Final Presentation
