@@ -21,16 +21,16 @@ Software : Jupyter Notebook & VS Code
 
 Performed following three deliverables -
 
-Deliverable 1: Change Trip Duration to a Datetime Format
+**Deliverable 1: Change Trip Duration to a Datetime Format
 
 Used Pandas to change the "tripduration" column from an integer to a datetime datatype. After conversion "tripduration" to a datetime datatype, exported the DataFrame as a CSV file to use for the trip analysis in Deliverable 2.
 
-Final result looks as below : 
+**Final result looks as below : 
 
 ![image](https://user-images.githubusercontent.com/40743420/216501889-bbc9590b-3ff2-46b5-b369-52a987b5d6f8.png)
 
 
-Deliverable 2: Create Visualizations for the Trip Analysis
+**Deliverable 2: Create Visualizations for the Trip Analysis
 Using Tableau, create visualizations that show:
 
 How long bikes are checked out for all riders and genders.
@@ -39,19 +39,24 @@ A breakdown of what days of the week a user might be more likely to check out a 
 
 In this visualization, I graphed the length of time that bikes are checked out for all riders.
 Final result looks as below : 
-Trip Duration
+**Trip Duration
 
 ![image](https://user-images.githubusercontent.com/40743420/216501670-8a01200a-9c1c-41ed-926f-b20278496570.png)
 
-Trip Duration by Gender
+**Trip Duration by Gender
 
 ![image](https://user-images.githubusercontent.com/40743420/216509763-b7b489af-9863-4506-b457-c2760f32bd84.png)
 
-Weekday Popularity
-
-
-
 Now, see the frecquency of trip length broken down by gender. Along with a comparitive analysis of the gender breakdown of Des Moines, this will help us estimate the popularity of renting bikes amongst different genders. Again, to view the data per hour more clearly, click to filter the different hours of length of bike trips.
+
+**Weekday Popularity
+
+![image](https://user-images.githubusercontent.com/40743420/216662848-37dc5a9e-5649-4563-a607-444f2f08a5f7.png)
+
+
+Toggle between the days of the week to see how the peak hours differ, and hold your cursor over a tile to see the number of riders it represents. It appears that the most popular time to ride is rush hour, 8am and then 5-7pm. However, you can see that the weekends between 11am-8pm are also high use times, as there are over 15K rides occuring.
+
+**Weekday Popularity by Gender
 
 
 
