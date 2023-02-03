@@ -1,6 +1,6 @@
 # bikesharing [Link to Tableau Story](https://public.tableau.com/views/BikeSharingChallenge_16753972024660/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-**Overview of the project
+**Overview of the project**
 
 There is business proposal for investors which is bike-sharing program in Des Moines. To solidfy this proposal, bike trip analysis needs to be performed. 
 
@@ -66,4 +66,4 @@ Here you can toggle between days of the week or differen gender types (male, fem
 
 The data broken down by Weekday, User Type, and Gender shows that male subscribers are riding the most frequently. Click to filter the Weekday, User type, and Gender to drill down into the results. Looking at all the data toether, we see that Male subscribers are taking the majority of the rides, so if you want to see increased success, it would be beneifital to focus your marketing on female customers.
 
-Deliverable 3: Create a Story and Report for the Final Presentation
+
