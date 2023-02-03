@@ -39,7 +39,20 @@ A breakdown of what days of the week a user might be more likely to check out a 
 
 In this visualization, I graphed the length of time that bikes are checked out for all riders.
 Final result looks as below : 
+Trip Duration
+
 ![image](https://user-images.githubusercontent.com/40743420/216501670-8a01200a-9c1c-41ed-926f-b20278496570.png)
+
+Trip Duration by Gender
+
+![image](https://user-images.githubusercontent.com/40743420/216509763-b7b489af-9863-4506-b457-c2760f32bd84.png)
+
+Weekday Popularity
+
+
+
+Now, see the frecquency of trip length broken down by gender. Along with a comparitive analysis of the gender breakdown of Des Moines, this will help us estimate the popularity of renting bikes amongst different genders. Again, to view the data per hour more clearly, click to filter the different hours of length of bike trips.
+
 
 
 Deliverable 3: Create a Story and Report for the Final Presentation
